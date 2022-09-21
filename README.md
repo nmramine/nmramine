@@ -1,14 +1,15 @@
-👋  Hi, I’m Amine Nemer, a <b>Google certified data analyst</b>, I turn data into meaningful insights for bussinesses to help them make data-driven decisions. 
+👋  Hi, I’m Amine Nemer, Fullstack web developer, I build&fix things at @SarlKhidmaTech & @Hotelo 
 
+I have spent the last 6 months helping my company build consitent tech products for tourism sector in algeria.   
+
+I also do data analysis for fun.
 
 My recent projects so far : 
 
 - Analyzed and identified trends and patterns on users behavior for bike sharing company : https://www.kaggle.com/aminenemer/cyclistic-data-analysis-google-data-analytics
 - Created Dashboard to monitor KPI using Tableau for a retail store: https://public.tableau.com/app/profile/amine.nemer/viz/KPIdashboard_16396559682340/KPIDashboard
 
-
-Check my certificate: 
-https://www.coursera.org/account/accomplishments/professional-cert/99EG355LMF73
+Contact me here: Nemerdeprojekt@gmail.com
 
 <!---
 nmramine/nmramine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
