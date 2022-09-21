@@ -6,6 +6,8 @@ I also do data analysis for fun.
 
 My recent projects so far : 
 
+
+- Dzair API: https://github.com/nmramine/DzairApi
 - Analyzed and identified trends and patterns on users behavior for bike sharing company : https://www.kaggle.com/aminenemer/cyclistic-data-analysis-google-data-analytics
 - Created Dashboard to monitor KPI using Tableau for a retail store: https://public.tableau.com/app/profile/amine.nemer/viz/KPIdashboard_16396559682340/KPIDashboard
 
