@@ -1,8 +1,8 @@
 👋  Hi, I’m Amine Nemer, Fullstack web developer, I build&fix things at @SarlKhidmaTech & @Hotelo 
 
-I have spent the last 6 months helping my company build consistent tech products for the tourism sector in algeria.   
+I have spent the last 6 months helping my company build consistent tech products in tourism sector in algeria.   
 
-I also do data analysis for fun.
+I do data analysis occasionally.
 
 My recent projects so far : 
 
